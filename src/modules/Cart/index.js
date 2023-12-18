@@ -129,7 +129,7 @@ const Cart = () => {
               (e) => {
                 e.preventDefault();
                 localStorage.removeItem("cart");
-                window.location.reload(false);
+                navigate('/cart');
               }
             }>Checkout</button>
           </div>
