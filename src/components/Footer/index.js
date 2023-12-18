@@ -75,7 +75,7 @@ const Footer = () => {
                 <a className="text-gray-600 hover:text-gray-800">Privacy</a>
               </li>
               <li>
-                <a className="text-gray-600 hover:text-gray-800">Redressal</a>
+                <a className="text-gray-600 hover:text-gray-800">Redressalcd m</a>
               </li>
             </nav>
           </div>
